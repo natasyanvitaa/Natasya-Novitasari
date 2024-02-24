@@ -1,6 +1,7 @@
 PRAKTIKUM 3
 
-![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/83ef2701-832c-4402-97c7-cc2844c8fd8d)
+![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/5146e52c-d999-44c7-80e7-04ef0f369c38)
+
 
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/b7a13ece-a3cb-4358-add2-26ee8b62e769)
 
