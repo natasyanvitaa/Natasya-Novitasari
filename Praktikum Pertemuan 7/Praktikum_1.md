@@ -1,7 +1,9 @@
 SOAL 1
 
 PDM
+
 ![pdm](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/9ce90a61-a8a3-4c93-a6e8-53c741de44e8)
+
 
 
 
