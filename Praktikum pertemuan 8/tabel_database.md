@@ -14,7 +14,7 @@ TABEL DATABASE
 
 
 
-![tempsnip](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/f4d1932e-81ee-4381-83f7-68b8b177ff73)
+![TABELpng](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/a1b01d0c-1597-40fe-866a-f814225d0d1a)
 
 
 
