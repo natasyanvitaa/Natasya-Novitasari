@@ -6,7 +6,8 @@ Mengkonversikan Diagram ERD ke Tabel Database
 DIAGRAM ERD
 
 
-![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/2cb9aef3-0360-437a-bf77-5e8ca20c5302)
+![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/8fcb6f2d-0f24-47bf-8ddf-32fbf3e73668)
+
 
 
 
