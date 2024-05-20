@@ -1,4 +1,4 @@
-# Soal No. 1 
+# Soal No. 1
 # Himpunlah screenshot sintaksis SQL berikut hasil SELECT yang Anda dapat di komputer Anda pada bagian Praktikum!
 # – Bagian 1: Membuat Database untuk Percobaan
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/fdf1aecd-bf0e-4b26-ad2f-ee4f2dac9e5a)
