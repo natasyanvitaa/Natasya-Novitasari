@@ -46,5 +46,5 @@
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/e17e3bbd-e331-4f6f-bdb1-646841dd4c88)
 
 # Soal No. 5
-# Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal
+# Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal.
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/2acf2560-ada6-4ebf-8afb-737dddbb3069)
