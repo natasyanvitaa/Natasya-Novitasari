@@ -1,4 +1,4 @@
-![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/ea0fcd77-5e1a-4c67-a33c-417433d8817d)#SOAL :
+#SOAL :
 > 1. Tampilkan nama user dengan jenis kelamin perempuan diurutkan dengan Ascending
 #Jawab :
 > Konsep Map
