@@ -47,4 +47,5 @@
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/8c62cb07-d961-4f12-b181-34fab420f91c)
 
 # Query & Output
-![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/e29232ad-bafd-457e-9467-3d7bcaaee088)
+![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/8b3574f2-54db-4fbf-a3d6-4492c0083cc7)
+
