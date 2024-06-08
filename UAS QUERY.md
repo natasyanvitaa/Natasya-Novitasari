@@ -7,7 +7,8 @@ Jawab :
 
 > Query & Output
 ![ikino1](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/48a2d1a9-1d9c-48f3-895e-2c0cfd458178)
-
+>
+> 
 #SOAL :
 > 2. Tampilkan daftar nama user yang yang berjenis kelamin laki laki diurutkan dari yang termuda ke yang tertua
 >
@@ -17,7 +18,8 @@ Jawab :
 
 > Query & Output
 ![ikino2](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/c097f87a-a498-4572-b2da-a3cbb54650e9)
-
+>
+> 
 #SOAL :
 > 3. Tampilkan daftar jenis peliharaan yang mendaftar ke klinik serta berapa kali mereka mendaftar dikelompokkan berdasarkan jenis peliharaan tersebut
 >
@@ -27,7 +29,8 @@ Jawab :
 
 > Query & Output
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/7d9ace0a-23cb-432e-865d-9e8acbe92bab)
-
+>
+> 
 #SOAL :
 > 4. Tampilkan nama user yang menghabiskan uang paling banyak dan berapa jumlah uang yang dihabiskannya di klinik ini
 >
@@ -37,7 +40,8 @@ Jawab :
 
 > Query & Output
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/6a883e15-3d30-481c-8003-0adb656e7cac)
-
+>
+> 
 #SOAL :
 > 5. Tampilkan data penjualan kursus berupa judul dan total penjualan diurutkan dari kursus yang penjualannya paling besar ke yang paling kecil
 >
