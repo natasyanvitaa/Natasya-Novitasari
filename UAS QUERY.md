@@ -40,7 +40,8 @@ Jawab :
 
 #SOAL :
 > 5. Tampilkan data penjualan kursus berupa judul dan total penjualan diurutkan dari kursus yang penjualannya paling besar ke yang paling kecil
-#Jawab :
+>
+Jawab :
 > Konsep Map
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/8c62cb07-d961-4f12-b181-34fab420f91c)
 
