@@ -1,7 +1,7 @@
 #SOAL :
 > 1. Tampilkan nama user dengan jenis kelamin perempuan diurutkan dengan Ascending
 > 
-#Jawab :
+Jawab :
 > Konsep Map
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/85cfa06e-d486-4e3a-8c8d-fdee597e7b5c)
 
@@ -10,7 +10,8 @@
 
 #SOAL :
 > 2. Tampilkan daftar nama user yang yang berjenis kelamin laki laki diurutkan dari yang termuda ke yang tertua
-#Jawab :
+>
+Jawab :
 > Konsep Map
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/a651251d-1aba-4eca-9a02-ad1deb26fa7d)
 
@@ -19,7 +20,8 @@
 
 #SOAL :
 > 3. Tampilkan daftar jenis peliharaan yang mendaftar ke klinik serta berapa kali mereka mendaftar dikelompokkan berdasarkan jenis peliharaan tersebut
-#Jawab :
+>
+Jawab :
 > Konsep Map
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/9bf1b836-5894-482c-8ac0-60762f7ab727)
 
@@ -28,7 +30,8 @@
 
 #SOAL :
 > 4. Tampilkan nama user yang menghabiskan uang paling banyak dan berapa jumlah uang yang dihabiskannya di klinik ini
-#Jawab :
+>
+Jawab :
 > Konsep Map
 ![image](https://github.com/natasyanvitaa/Natasya-Novitasari/assets/160209181/e28a751c-2275-43c5-b92f-8b02bb6c29bd)
 
